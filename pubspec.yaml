@@ -37,6 +37,8 @@ dependencies:
   dynamic_color: ^1.7.0
   flutter_riverpod: ^2.6.1
   riverpod_annotation: ^2.6.1
+  sheet: ^1.0.0
+  device_apps: ^2.2.0
 
 dev_dependencies:
   flutter_test:
